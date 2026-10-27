@@ -10,5 +10,7 @@ int main()
 
 	std::cout << "Double that number is: " << x * 2 << "\n";
 
+	std::cout << "Triple that number is: " << x * 3 << "\n";
+
 	return 0;
 }
